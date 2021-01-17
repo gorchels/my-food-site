@@ -1,6 +1,6 @@
 ---
-authorName: Elizabeth BH
-authorURL: http://allrecipes.com/cook/183690/made-it/
+authorName: Genie Gorchels
+authorURL: 
 category: Dessert
 cookTime: 15
 date: "2017-03-16"
@@ -19,7 +19,7 @@ directions:
   toasted.
 - Cool on baking sheets for a few minutes before transferring to wire racks to cool
   completely.
-image: best-big-fat-chewy-chocolate-chip-cookie.jpg
+image: christmas-cookies.jpg
 imagecredit: http://allrecipes.com/recipe/25037/best-big-fat-chewy-chocolate-chip-cookie/
 ingredients:
 - 2 cups all-purpose flour
