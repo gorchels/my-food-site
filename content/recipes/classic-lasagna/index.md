@@ -1,62 +1,57 @@
 ---
-authorName: Terri
-authorURL: www.greatgrubdelicioustreats.com
+authorName: Madeline Gorchels
+authorURL:
 category: dinner
 cookTime: 60
 cuisine: Italian
-date: "2018-01-02"
+date: "2021-01-02"
 directions:
 - Preheat oven to 350°F.
+- Slice eggplant such that you have thin, long slices. 
+- Sprinkle salt on both sides of the eggplant, set aside. 
 - In a large pan, add olive oil, chopped onions and garlic. Saute for 3-4 minutes.
-- Add ground beef and sausage, and cook until completely browned, drain fat. Return
-  to pan.
-- Add tomato sauce, tomato paste, water, oregano, basil, salt and pepper.
-- Bring to a boil over medium heat, reduce heat to low, cover and cook for approximately
-  20-25 minutes, stirring occasionally.
-- Cook pasta according to package directions for al dente, rinse and set aside.
-- Lightly spray a 14 x 11 1/2 x 2 1/4 baking dish (or two smaller size baking dishes)
-  with a non stick spray then add a small amount of meat mixture in the bottom of
-  dish. Spread around.
-- Add lasagna noodles (approximately 5, they will overlap onto each other).
-- Next, spoon half of the cottage cheese on top of pasta and spread over pasta.
-- Spoon 1/3 meat mixture on top of cottage cheese.
-- Sprinkle with half the Parmesan cheese.
-- Next add 1/3 of the mozzarella cheese.
-- Repeat with another layer of pasta, cottage cheese, meat mixture, Parmesan cheese,
-  mozzarella cheese.
-- Final layer is pasta, topped with remaining meat mixture and remaining mozzarella
-  cheese.
-- Cover with foil and cook for approximately 50-60 minutes. Remove foil and cook for
+- While the onions etc are sauteing, dab the eggplant dry with a towel. Brush both sides of the eggplant with olive oil and put on parchment paper on a cookie sheet. Bake for 15 minutes, but check after 10 minutes. 
+- Add tomato sauce and italian seasoning to the onions stir and reduce to mid-low heat. 
+- Make lasanga noodles. 
+- Prepare ricotta filling by mixing all of the ricotta, 2 cups of mozzarella, parmesan, and chopped basil and parsley.
+- Spread a light layer of olive oil on your lasanga pan. 
+- Start layers with a layer of 4 noodles. 
+- Add a layer of sauce. 
+- Add a layer of cheese. 
+- Add a layer of pasta. 
+- Add a layer of sauce. 
+- Add a layer of eggplant. 
+- Add a layer of sauce. 
+- Add a layer of cheese. 
+- Add a layer of pasta. 
+- Add a layer of sauce. 
+- Add a layer of cheese. 
+- Add a layer of pasta. 
+- Add remainging 1 cup mozzarella. 
+- Cover with foil and cook for approximately 40 minutes. Remove foil and cook for
   an additional 10 minutes.
-- Serve with salad and garlic bread.
 image: classic-lasagna.jpg
 imagecredit: null
 ingredients:
-- 2 lbs ground beef
-- 1 package of spicy Italian sausage
 - 1 medium onion chopped
 - 3 cloves garlic minced
 - 1 Tbsp olive oil
-- 2 15 oz cans tomato sauce
-- 1 15 oz can water use the tomato sauce can
-- 1 12 oz can tomato paste
-- 1 tsp oregano
-- 1 tsp basil
-- 1 tsp salt
-- 1 tsp pepper
-- 24 oz mozzarella cheese grated (can use more)
+- 1 eggplant 
+- 1 28 oz cans tomato sauce
+- 1 tsp italian seasoning
+- several leaves fresh basil and parsley
+- 3 cups mozzarella cheese grated 
 - 16 oz cottage cheese or ricotta cheese
-- 1/2 cup grated Parmesan cheese
-- 1 16 oz box lasagna pasta you will only need about 15 noodles
+- 1 cup grated Parmesan cheese
+- 16 oz  lasagna pastsa
 layout: recipe
 prepTime: 90
-sourceName: Great Grub, Delicious Treats
-sourceURL: http://www.greatgrubdelicioustreats.com/classic-lasagna/
+sourceName: Madeline Gorchels
+sourceURL:
 tags:
 - Italian
 - family
-title: Classic Lasagna
-yield: 10
+title: Eggplant Lasagna
+yield: 5
 ---
 
-You might need a bit more cottage or ricotta cheese, especially if splitting between smaller pans. Also, you will only get two levels deep if you don't have a really deep pan. Our contribution to this recipe comes from Ashley's mother, which is adding a package of spicy Italian sausage to give some additional flavor.
