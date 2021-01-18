@@ -30,7 +30,7 @@ directions:
 - Add remainging 1 cup mozzarella. 
 - Cover with foil and cook for approximately 40 minutes. Remove foil and cook for
   an additional 10 minutes.
-image: classic-lasagna.jpg
+image: lasagna.jpg
 imagecredit: null
 ingredients:
 - 1 medium onion chopped
