@@ -39,6 +39,6 @@ sourceURL: http://allrecipes.com/recipe/25037/best-big-fat-chewy-chocolate-chip-
 tags:
 - chocolate
 - cookies
-title: Chocolate Chip Cookie
+title: Genie's Christmas Cookies
 yield: 7
 ---

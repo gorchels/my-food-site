@@ -9,9 +9,9 @@ directions:
 - Preheat oven to 350°F.
 - Slice eggplant such that you have thin, long slices. 
 - Sprinkle salt on both sides of the eggplant, set aside. 
-- In a large pan, add olive oil, chopped onions and garlic. Saute for 3-4 minutes.
+- In a large pan, add olive oil, chopped onions, garlic, and red pepper flakes. Saute for 3-4 minutes.
 - While the onions etc are sauteing, dab the eggplant dry with a towel. Brush both sides of the eggplant with olive oil and put on parchment paper on a cookie sheet. Bake for 15 minutes, but check after 10 minutes. 
-- Add tomato sauce and italian seasoning to the onions stir and reduce to mid-low heat. 
+- Add tomato sauce, italian seasoning, and balsamic vinegar to the onions stir and reduce to mid-low heat. 
 - Make lasanga noodles. 
 - Prepare ricotta filling by mixing all of the ricotta, 2 cups of mozzarella, parmesan, and chopped basil and parsley.
 - Spread a light layer of olive oil on your lasanga pan. 
@@ -30,11 +30,13 @@ directions:
 - Add remainging 1 cup mozzarella. 
 - Cover with foil and cook for approximately 40 minutes. Remove foil and cook for
   an additional 10 minutes.
-image: lasagna.jpg
+image: IMG_3414.jpg
 imagecredit: null
 ingredients:
 - 1 medium onion chopped
 - 3 cloves garlic minced
+- red pepper flaeks
+- 1 tsp balsamic vinegar 
 - 1 Tbsp olive oil
 - 1 eggplant 
 - 1 28 oz cans tomato sauce
