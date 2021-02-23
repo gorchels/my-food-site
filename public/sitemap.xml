@@ -33,6 +33,16 @@
   </url>
   
   <url>
+    <loc>/tags/dinner/</loc>
+    <lastmod>2020-12-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/recipes/burrito-rice/</loc>
+    <lastmod>2020-12-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/breakfast/</loc>
     <lastmod>2017-03-16T00:00:00+00:00</lastmod>
   </url>
@@ -97,7 +107,7 @@
   </url>
   
   <url>
-    <loc>/tags/dinner/</loc>
+    <loc>/recipes/french-onion-soup/</loc>
   </url>
   
   <url>

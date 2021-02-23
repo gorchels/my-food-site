@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>Rice Cooker Burrito Rice</title>
+      <link>/recipes/burrito-rice/</link>
+      <pubDate>Wed, 16 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/recipes/burrito-rice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Genie&#39;s Christmas Cookies</title>
       <link>/recipes/best-big-fat-chewy-chocolate-chip-cookie/</link>
       <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
@@ -47,6 +56,15 @@
       <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 You can embed an R code chunk like this:
 summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+    </item>
+    
+    <item>
+      <title>French Onion Soup</title>
+      <link>/recipes/french-onion-soup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/recipes/french-onion-soup/</guid>
+      <description></description>
     </item>
     
     <item>
