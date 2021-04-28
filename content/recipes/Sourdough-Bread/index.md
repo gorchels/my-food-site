@@ -12,7 +12,7 @@ directions:
 - Add salt, yeast and 3/4 cup of the mature sourdough discard. Work thouroughly with wetted hands until combined. Depending on the consistancy of your sourdough you may need to add more flour/water to get to the right consistancy. 
 - Knead once in the next hour and then once more 2-3 hours after mixing. 
 - Shape the loaf by making a smooth side of the dough and a rough side on the bottom of the joined edges. Place in floured proofing basket and proof overnight. 
-- Next morning: preheat oven to 475 degrees. Put dutch oven in the oven to heat up. 
+- Next morning: preheat oven to 475 degrees. Put dutch oven in the oven to heat up for 15 minutes.
 - Bake for 30 minutes then take the lid off and bake for 15 more minutes. 
 image: sourdough.jpg
 imagecredit: Madeline Gorchels
